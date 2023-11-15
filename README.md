@@ -52,3 +52,4 @@ Visit the USGS GeoJSON Feed page [USGS GeoJSON Feed](https://earthquake.usgs.gov
 
 ## Result
 The visualization provides an interactive map of earthquakes, with markers conveying both magnitude and depth information. Popups offer additional details about each earthquake, and the legend aids in interpreting the map data.
+![image](https://github.com/JasmineBamba/leaflet/assets/135666038/6e74e014-f224-4142-957c-455d632afb69)
